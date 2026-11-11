@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Aline Ribeiro Cirino
 
-<!--
-**alineribeirocirino2018-droid/alineribeirocirino2018-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Analista de Sistemas Júnior na Quality Digital e estudante de Sistemas de Informação na Universidade Paulista (UNIP).
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Atuo com suporte técnico, GRC e ACL Analytics.
+- Tenho interesse em tecnologia, análise de dados e desenvolvimento de sistemas.
+- Estou estudando Python e linguagem C.
+- Busco desenvolver meus conhecimentos por meio de projetos acadêmicos e experiências profissionais.
+
+## Tecnologias e conhecimentos
+
+- ACL Analytics
+- Suporte técnico
+- GRC
+- Python - em aprendizado
+- Linguagem C - em aprendizado
+
+## Formação acadêmica
+
+- **Curso:** Sistemas de Informação
+- **Instituição:** Universidade Paulista - UNIP
+
+## Projetos
+
+Este perfil será atualizado progressivamente com projetos acadêmicos e pessoais desenvolvidos durante o curso.
+
+## Contato
+
+- [LinkedIn da Aline](https://www.linkedin.com/in/aline-cirino-a1630b413/)
