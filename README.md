@@ -1,4 +1,4 @@
-# Olá, eu sou Aline Ribeiro Cirino
+# Olá, eu sou Aline Ribeiro Cirino!
 
 Sou Analista de Sistemas Júnior na Quality Digital e estudante de Sistemas de Informação na Universidade Paulista (UNIP).
 
@@ -19,7 +19,10 @@ Sou Analista de Sistemas Júnior na Quality Digital e estudante de Sistemas de I
 
 ## Formação acadêmica
 
-- **Curso:** Sistemas de Informação
+- **Curso:** Análise desenvolvimento de Sistemas
+- **Instituição:** Associação Educacional Nove de Julho - UNINOVE
+  
+- **Cursando:** Sistemas de Informação
 - **Instituição:** Universidade Paulista - UNIP
 
 ## Projetos
